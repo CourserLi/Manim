@@ -1,5 +1,7 @@
 # 《数据结构》代码可视化
 
+<div align=center><img src="https://s1.ax1x.com/2022/11/10/zSjj10.png"></div>
+
 ### 项目介绍
 
 Manim 引擎地址：https://github.com/3b1b/manim
@@ -8,9 +10,9 @@ Manim 引擎地址：https://github.com/3b1b/manim
 
 全部视频发布于 B 站：[《数据结构》算法模拟动画](https://www.bilibili.com/video/BV12v411K7pZ?spm_id_from=333.999.0.0)
 
-包含数据结构类型：顺序表、单链表、栈、队列、KMP、二叉树、排序、图
-
 代码参考书籍：[《算法与数据结构（C++ 版）》](https://item.jd.com/72399479974.html)
+
+**包含数据结构类型：顺序表、单链表、栈、队列、KMP、二叉树、排序、图**
 
 ### 部分视频截图（选取自 [KMP 算法](https://www.bilibili.com/video/BV12v411K7pZ?p=6&vd_source=3796e5fb474fd9dc44fdec1da44336f6)、[二叉树](https://www.bilibili.com/video/BV12v411K7pZ?p=7&vd_source=3796e5fb474fd9dc44fdec1da44336f6)、[Prim 算法](https://www.bilibili.com/video/BV12v411K7pZ?p=16)）
 
